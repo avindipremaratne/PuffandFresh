@@ -1,0 +1,15 @@
+====================================================================
+                    ***Welcome to Puff and Fresh***
+                     ***Breakfast Billing System***
+====================================================================
+
+Amount                          Item                          Price
+
+1                          Thosai and Chutney                 Rs.28
+
+2                          String Hoppers                     Rs.130
+
+
+Sub Total                                                     Rs.158
+Tax                                                           Rs.7.9
+Amount Due                                                    Rs.165.9

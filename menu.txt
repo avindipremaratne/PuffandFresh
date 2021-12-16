@@ -1,0 +1,17 @@
+	     	=================================================
+			***Welcome to Puff and Fresh***
+		   	 ***Breakfast Billing System***
+		=================================================
+
+		Item No		Menu Item		Price
+
+		111		String Hoppers		Rs.65.00
+		112		Egg Sandwich 		Rs.45.00
+		113 		Thosai with Chutney 	Rs.28.00
+		114 		Parata 			Rs.20.50
+		115 		Sausages bun 		Rs.40.00
+		116 		Fish Roll 		Rs.35.00
+		117 		Plain Tea 		Rs.10.00
+		118 		Coffee 			Rs.15.00
+		119 		Tea 			Rs.20.00
+		120 		Fruit Juice 		Rs.22.50
